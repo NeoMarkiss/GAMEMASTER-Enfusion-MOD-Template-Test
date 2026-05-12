@@ -21,7 +21,9 @@ This mod contains:
 - All files are original and derived from official samples.
 - No vanilla assets are redistributed.
 - Scenario is map-specific; game mode is map-agnostic.
-[]
+<br>
+<br>
+
 <World>
     <!-- Empty world placeholder -->
     <!-- Replace with your actual world data -->
@@ -47,7 +49,7 @@ SCR_GameMode_CustomMode
         SCR_TaskManagerComponent {};
     };
 }
-[]
+<br>
 
 modded class SCR_GameMode_CustomMode : SCR_BaseGameMode
 {
@@ -58,7 +60,8 @@ modded class SCR_GameMode_CustomMode : SCR_BaseGameMode
     }
 }
 
-[]
+<br>
+<br>
 
 class SCR_DynamicSpawner : ScriptComponent
 {
@@ -130,7 +133,9 @@ class SCR_DynamicSpawner : ScriptComponent
     }
 }
 
-[]
+<br>
+<br>
+
 
 ScenarioClass SCR_Mission
 {
@@ -181,7 +186,9 @@ ScenarioClass SCR_Mission
     };
 }
 
-[]
+<br>
+<br>
+
 
 
 {
@@ -201,13 +208,10 @@ ScenarioClass SCR_Mission
 }
 
 
-[]
+<br>
+<br>
 
 
-
-
-
-[]
 
 🎉 DONE — You Now Have a Full Custom Server Pack
 
