@@ -1,35 +1,6 @@
 # GAMEMASTER-Enfusion-MOD-Template-Test
 ARMA REFORGER - Latest Min Req's for the Save Scenario, MOD to WORKBENCH WorkFlows.
-MyCustomMod/
-│
-├─ mod.cpp
-├─ README.md
-│
-├─ Addons/
-│   ├─ Map/
-│   │   ├─ Worlds/
-│   │   │   └─ MyCustomMap/
-│   │   │       ├─ MyCustomMap.ent
-│   │   │       └─ MyCustomMap.wrp  (if used)
-│   │   └─ WorldLayers/
-│   │       └─ MyCustomMapLayer.layer
-│   │
-│   ├─ GameMode/
-│   │   ├─ Prefabs/
-│   │   │   └─ GameMode_CustomMode.et
-│   │   └─ Scripts/
-│   │       └─ GameMode/
-│   │           └─ SCR_GameMode_CustomMode.es
-│   │
-│   ├─ Missions/
-│   │   └─ MyCustomMap_CustomScenario.conf
-│   │
-│   └─ Scripts/
-│       └─ Logic/
-│           └─ SCR_DynamicSpawner.es
-│
-└─ Server/
-    └─ server_config.json
+
 []
 # MyCustomMod (Vanilla+1 Server Pack)
 
