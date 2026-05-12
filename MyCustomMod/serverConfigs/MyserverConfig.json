@@ -1,0 +1,15 @@
+{
+  "scenarioId": "{MODGUID}Missions/MyCustomMap_CustomScenario.conf",
+  "mods": [
+    "{MODID}"
+  ],
+  "bindAddress": "0.0.0.0",
+  "bindPort": 2001,
+  "publicAddress": "",
+  "publicPort": 2001,
+  "adminPassword": "admin",
+  "maxPlayers": 32,
+  "gameHostBindAddress": "0.0.0.0",
+  "gameHostBindPort": 2002,
+  "gameHostRegister": true
+}

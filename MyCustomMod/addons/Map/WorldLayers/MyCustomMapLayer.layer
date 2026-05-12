@@ -1,0 +1,5 @@
+Layer
+{
+    Name = "MyCustomMapLayer";
+    // Place spawn points, logic prefabs, etc.
+}

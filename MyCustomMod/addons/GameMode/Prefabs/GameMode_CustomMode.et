@@ -1,0 +1,14 @@
+SCR_GameMode_CustomMode
+{
+    Name = "CustomMode";
+
+    Components
+    {
+        SCR_BaseGameModeComponent {};
+        SCR_FactionManagerComponent {};
+        SCR_LoadoutManagerComponent {};
+        SCR_PerceptionManagerComponent {};
+        SCR_RadioManagerComponent {};
+        SCR_TaskManagerComponent {};
+    };
+}
