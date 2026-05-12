@@ -28,13 +28,17 @@ This mod contains:
     <!-- Empty world placeholder -->
     <!-- Replace with your actual world data -->
 </World>
-[]
+<br>
+<br>
+
 Layer
 {
     Name = "MyCustomMapLayer";
     // Place spawn points, logic prefabs, etc.
 }
-[]
+<br>
+<br>
+
 SCR_GameMode_CustomMode
 {
     Name = "CustomMode";
